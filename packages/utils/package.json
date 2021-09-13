@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "ethers": "5.0.17",
-    "js-base64": "3.5.2",
+    "js-base64": "3.7.0",
     "uuid": "8.3.1"
   },
   "devDependencies": {
